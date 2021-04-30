@@ -31,6 +31,7 @@ Any ML-pipline can be deployed to production through Flask and it can be tested 
 - NLTK
 - Flask 
 
+#### Steps to run the app
 - Install all the libraries in your compiler or simply ```pip install``` in the command prompt of your project directory 
 - atleast run once any one of the machine learning model .py so that the .pkl (pickle) files are generated 
 - you may use the given .pkl files but can generate your own if you want - just follow the steps in the code 
